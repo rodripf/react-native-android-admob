@@ -25,3 +25,8 @@ proguard/
 
 # Log Files
 *.log
+
+ios/*
+node_modules/*
+android/build/*
+android/app/build/*
